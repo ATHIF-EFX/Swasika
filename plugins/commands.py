@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('updates', url='https://t.me/cinemaenglish123')
+                InlineKeyboardButton('UPDΔTΣ', url='https://t.me/+a3KKSMyVxWcwZjRl')
             ],
             [
-                InlineKeyboardButton('help', url=f"https://t.me/{temp.U_NAME}?start=help"),
+                InlineKeyboardButton('HΣLP', url=f"https://t.me/{temp.U_NAME}?start=help"),
                 InlineKeyboardButton('Close ✗', callback_data="close_data"),
             ]
             ]
@@ -50,10 +50,10 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔍𝑠𝑒𝑎𝑟𝑐𝒉 𝒉𝑒𝑟𝑒 𝑚𝑜𝑣𝑖𝑒🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟', url='https://t.me/ABHISHEKSVLOG'),
-            InlineKeyboardButton('𝐺𝑟𝑜𝑢𝑝', url='https://t.me/cinemaenglish123')
+            InlineKeyboardButton('𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟', url='https://t.me/Swasika_SECHI'),
+            InlineKeyboardButton('𝐺𝑟𝑜𝑢𝑝', url='https://t.me/FFlinkzUNDERWOLRD')
             ],[
-            InlineKeyboardButton('𝑈𝑃𝐷𝐴𝑇𝐸𝑆 𝐶𝐻𝐴𝑁𝑁𝐸𝐿', url='https://t.me/Justaupdatechannel'),
+            InlineKeyboardButton('𝑈𝑃𝐷𝐴𝑇𝐸𝑆 𝐶𝐻𝐴𝑁𝑁𝐸𝐿', url='https://t.me/+a3KKSMyVxWcwZjRl'),
             ],[
             InlineKeyboardButton('✗ 𝐶𝑙𝑜𝑠𝑒 𝑇𝒉𝑒 𝑀𝑒𝑛𝑢 ✗', callback_data='close_data')
         ]]
@@ -100,7 +100,7 @@ async def start(client, message):
             InlineKeyboardButton('𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟', url='https://t.me/ABHISHEKSVLOG'),
             InlineKeyboardButton('𝐺𝑟𝑜𝑢𝑝', url='https://t.me/cinemaenglish123')
             ],[
-            InlineKeyboardButton('𝑈𝑃𝐷𝐴𝑇𝐸𝑆 𝐶𝐻𝐴𝑁𝑁𝐸𝐿', url='https://t.me/Justaupdatechannel'),
+            InlineKeyboardButton('𝑈𝑃𝐷𝐴𝑇𝐸𝑆 𝐶𝐻𝐴𝑁𝑁𝐸𝐿', url='https://t.me/+a3KKSMyVxWcwZjRl'),
             ],[
             InlineKeyboardButton('✗ 𝐶𝑙𝑜𝑠𝑒 𝑇𝒉𝑒 𝑀𝑒𝑛𝑢 ✗', callback_data='close_data')
         ]]
